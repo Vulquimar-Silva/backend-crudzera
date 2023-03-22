@@ -1,1 +1,2 @@
-## API CRUDzera - NodeJS - Express - PostgreSQL - Docker e Kubernetes
+## - API CRUDzera - 
+### NodeJS - Express - PostgreSQL - Docker - Kubernetes
