@@ -1,3 +1,11 @@
-## - API CRUDzera
+# CRUDzera API
 
-### NodeJS - Express - PostgreSQL - Docker - Kubernetes
+## Descrição
+Breve descrição do propósito e funcionalidade da API.
+
+## Tecnologias Utilizadas
+- NodeJS
+- Express
+- PostgreSQL
+- Docker
+- Kubernetes
